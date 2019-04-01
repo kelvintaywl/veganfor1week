@@ -12,6 +12,9 @@ The goal was mainly to explore how easy it is to cook or find vegan cuisines aro
 
 This should be fun!
 
+- [Blog](blog)
+- [Recipes](recipes)
+
 ## Trivia
 
 This coincides with the Japanese new era, Reiwa](https://edition.cnn.com/2019/03/31/asia/japan-new-era-reiwa-intl/index.html)
