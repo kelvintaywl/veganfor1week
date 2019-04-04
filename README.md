@@ -17,4 +17,4 @@ This should be fun!
 
 ## Trivia
 
-This coincides with the Japanese new era, Reiwa](https://edition.cnn.com/2019/03/31/asia/japan-new-era-reiwa-intl/index.html)
+This coincides with the announcement of the [new Japanese era, Reiwa](https://edition.cnn.com/2019/03/31/asia/japan-new-era-reiwa-intl/index.html)
