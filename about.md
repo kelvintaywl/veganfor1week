@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# What is veganfor1week?
-
-Hi there! 🥦
+ **veganfor1week** 🍌
 
 I wanted to try out veganism (in terms of food intake), just for a week at a time.
 This is a project to also explore how easy it is to find or make meat-free meals in various stages of my life.
