@@ -22,23 +22,17 @@ title: 🥦 veganfor1week
 description: >-
   Logging my attempts on having a vegan diet for a week.
 url: https://kelvintaywl.github.io/veganfor1week
-# github_username:  kelvintaywl
+github_username:  kelvintaywl
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
-author:
-  name: Kelvin Tay
-  email: "kelvintaywl@gmail.com"
+author: "kelvintaywl@gmail.com"
 
 minima:
   date_format: "%b %-d, %Y"
-  social_links:
-    github: kelvintaywl
-    docker: kelvintaywl
-    linkedin: kelvintaywl
 
 header_pages:
   - about.md
